@@ -3,8 +3,8 @@
   "assets": [
     {
       "type": "mappack",
-      "name": "ONION",
-      "long_name": "ONION",
+      "name": "dlc_onion",
+      "long_name": "dlc_onion",
       "description": "A horror mappack inspired by HIM",
       "version": "1.0.0",
       "author": "wawa",
@@ -19,7 +19,7 @@
           "AEFM"
         ]
       },
-      "icon": "https://github.com/wawa-feline-maro/fmcrapfordlc/blob/5a1ca1d46f26ef50ed0bf739fc48201e15c24be9/onion.png",
+      "icon": "https://raw.githubusercontent.com/wawa-feline-maro/fmcrapfordlc/refs/heads/main/onion.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5251"
     },
     {
