@@ -3,23 +3,23 @@
   "assets": [
     {
       "type": "mappack",
-      "name": "Mari0 Odyssey",
-      "long_name": "Super Mari0 Odyssey",
-      "description": "Travel Around\nThe World",
+      "name": "onion (bad)",
+      "long_name": "onion (bad)",
+      "description": "onion...",
       "version": "1.0.0",
-      "author": "alesan99",
+      "author": "ajellysandwi",
       "download": {
         "url": "https://www.dropbox.com/s/80fzcpsblh248q4/mario_odyssey.zip?dl=1",
         "filename": "mario_odyssey.zip"
       },
-      "released": "2018-10-19",
-      "updated": "2020-08-29",
+      "released": "2025-10-19",
+      "updated": "2020-10-19",
       "game_version": {
         "derivative": [
           "AE"
         ]
       },
-      "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/SuperMari0Odyssey.png",
+      "icon": "https://raw.githubusercontent.com/wawa-feline-maro/fmcrapfordlc/main/icon_onion_bad.png",
       "homepage": "https://forum.stabyourself.net/viewtopic.php?f=12&t=5251"
     },
     {
@@ -985,3 +985,4 @@
     }
   ]
 }
+
