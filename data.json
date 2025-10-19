@@ -9,7 +9,7 @@
       "version": "1.0.0",
       "author": "ajellysandwi",
       "download": {
-        "url": "https://www.dropbox.com/s/2kcxju82bqjtvb4dlujgw/le-onion-veggie.zip?dl=1",
+        "url": "https://dl.dropboxusercontent.com/s/2kcxju82bqjtvb4dlujgw/le-onion-veggie.zip",
         "filename": "le-onion-veggie.zip"
       },
       "released": "2025-10-19",
@@ -985,6 +985,7 @@
     }
   ]
 }
+
 
 
 
