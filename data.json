@@ -963,14 +963,14 @@
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/WideMario.png"
     },
     {
-      "type": "character",
-      "name": "Odyssey Mario",
-      "description": "Groundpound, wall\njump, spin, as\nOdyssey Mario!",
-      "long_description": "Ground pound, wall jump, and spin as Odyssey Mario!",
+      "type": "video",
+      "name": "???",
+      "description": "???",
+      "long_description": "???",
       "version": "1.0.0",
-      "author": "williamfrog",
+      "author": "???",
       "download": {
-        "url": "https://forum.stabyourself.net/download/file.php?id=1221",
+        "url": "https://youtu.be/dQw4w9WgXcQ",
         "filename": "odyssey_mario_v7.zip"
       },
       "game_version": {
@@ -980,11 +980,12 @@
       },
       "released": "2020-07-30",
       "updated": "2020-07-30",
-      "homepage": "https://forum.stabyourself.net/viewtopic.php?f=8&t=5273&start=43",
+      "homepage": "https://youtu.be/dQw4w9WgXcQ",
       "icon": "https://raw.githubusercontent.com/qixils/mari0pository/main/icons/OdysseyMario.png"
     }
   ]
 }
+
 
 
 
